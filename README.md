@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # EzGrep
 
 EzGrep enforces search-first naming. Every name is chosen to be easy to find with fast text search tools like `grep` or `ack`.
